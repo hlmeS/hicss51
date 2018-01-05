@@ -1,4 +1,4 @@
-#### Smart Application Development Using <br> Graph Database Modeling and High Availability Web Services
+### Smart Application Development Using <br> Graph Database Modeling and High Availability Web Services
 
 <br>
 <sm>Holm Smidt, **Matsu Thornton**, Reza Ghorbani <br>
