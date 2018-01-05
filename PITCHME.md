@@ -41,7 +41,7 @@ University of Hawai`i at Manoa</sm>
 
 ### Layered Architecture
 
-![Software Architecture](assets/stack.png)
+![Software Architecture](assets/stack_color_crop.png)
 
 +++
 
