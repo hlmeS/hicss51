@@ -19,31 +19,35 @@ University of Hawai`i at Manoa</sm>
 
 ### Motivation
 
-- improved insights |
-- better decisions  |
-- fact-based decicisions |
+![Communication Flow](assets/flow.png)
+
 
 
 +++
 
-### Objectives
+### A framework that ...
 
-- Framework for rapid prototyping, testing, and deployment
-- Use case validation
+- _allows_ rapid prototyping, testing, and deployment |
+- _provides_ versatility, productivity, and scalability |
+- _encourages_ use case validation
 
 +++
 
 ### Methodology?
 
-![Types of BI/BA](assets/BA_types.png)
+
 
 ---
 
 ### Layered Architecture
 
+![Software Architecture](assets/stack.png)
+
 +++
 
 ### Communication Flow
+
+![Communication Flow](assets/flow.png)
 
 +++
 
