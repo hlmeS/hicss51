@@ -1,7 +1,7 @@
-## Smart Application Development for <br> IoT Asset Management Using <br> Graph Database Modeling and <br>High Availability Web Services
+### Smart Application Development <br> Using <br> Graph Database Modeling and <br>High Availability Web Services
 
-##### Holm Smidt, **Matsu Thornton**, Reza Ghorbani
-##### University of Hawai`i at Manoa
+###### Holm Smidt, **Matsu Thornton**, Reza Ghorbani
+###### University of Hawai`i at Manoa
 
 
 ---
