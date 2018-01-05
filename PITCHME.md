@@ -30,7 +30,7 @@ University of Hawaii at Manoa
 - easy to use |
 - productive (fast) |
 - scalable |
-- easy to <br> prototype, <br> troubleshoot, & <br> deploy |
+- easy to prototype, <br> troubleshoot, & deploy |
 
 
 +++
