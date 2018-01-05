@@ -2,7 +2,7 @@
 
 <br>
 <sm>Holm Smidt, **Matsu Thornton**, Reza Ghorbani <br>
-University of Hawai`i at Manoa<sm>
+University of Hawai`i at Manoa</sm>
 
 
 ---
