@@ -12,7 +12,7 @@ University of Hawaii at Manoa
 - Motivation |
 - Objectives |
 - Development Stack |
-- Use Case: <br>HICSS-51 Registration System |
+- Use Case: <br> HICSS-51 Registration System |
 
 
 ---
@@ -30,7 +30,7 @@ University of Hawaii at Manoa
 - easy to use |
 - productive (fast) |
 - scalable |
-- easy to prototype, troubleshoot, & deploy |
+- easy to <br> prototype, <br> troubleshoot, & <br> deploy |
 
 
 +++
