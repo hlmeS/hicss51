@@ -1,8 +1,8 @@
 #### Smart Application Development Using <br> Graph Database Modeling and High Availability Web Services
 
 <br>
-Holm Smidt, **Matsu Thornton**, Reza Ghorbani <br>
-University of Hawai`i at Manoa
+<sm>Holm Smidt, **Matsu Thornton**, Reza Ghorbani <br>
+University of Hawai`i at Manoa<sm>
 
 
 ---
