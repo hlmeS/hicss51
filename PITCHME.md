@@ -25,15 +25,19 @@ University of Hawaii at Manoa
 
 +++
 
-### A framework that ...
+### A framework that is...
 
-- **allows** rapid prototyping, testing, and deployment |
-- **provides** versatility, productivity, and scalability |
-- **encourages** use case validation |
+- easy to use |
+- productive (fast) |
+- scalable |
+- easy to prototype, troubleshoot, & deploy |
+
 
 +++
 
-### Methodology?
+### Methodology
+
+![Methodology](assets/how.png)
 
 
 
