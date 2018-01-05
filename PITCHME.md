@@ -12,7 +12,7 @@ University of Hawaii at Manoa
 - Motivation |
 - Objectives |
 - Development Stack |
-- Use Case: HICSS-51 Registration System |
+- Use Case: <br>HICSS-51 Registration System |
 
 
 ---
