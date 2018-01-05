@@ -2,7 +2,7 @@ theme : white
 theme-override : assets/css/PITCHME.css
 background : assets/bg.jpg
 background-size : cover
-logo : assets/HICSS-logo-2017-black_NB.png
+logo : assets/manoa_seal.jpg
 highlight : atom-one-dark
 mathjax : TeX-AMS_HTML-full
 charts : true
