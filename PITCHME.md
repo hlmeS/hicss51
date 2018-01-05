@@ -1,8 +1,8 @@
 ### Smart Application Development Using Graph Database Modeling and High Availability Web Services
 
 <br>
-<sm>Holm Smidt, **Matsu Thornton**, Reza Ghorbani <br>
-University of Hawai`i at Manoa</sm>
+Holm Smidt, **Matsu Thornton**, Reza Ghorbani <br>
+University of Hawaii at Manoa
 
 
 ---
@@ -19,7 +19,7 @@ University of Hawai`i at Manoa</sm>
 
 ### Motivation
 
-![Communication Flow](assets/flow.png)
+![Communication Flow](assets/comm_network.png)
 
 
 
@@ -27,9 +27,9 @@ University of Hawai`i at Manoa</sm>
 
 ### A framework that ...
 
-- _allows_ rapid prototyping, testing, and deployment |
-- _provides_ versatility, productivity, and scalability |
-- _encourages_ use case validation
+- **allows** rapid prototyping, testing, and deployment |
+- **provides** versatility, productivity, and scalability |
+- **encourages** use case validation |
 
 +++
 
@@ -54,12 +54,13 @@ University of Hawai`i at Manoa</sm>
 
 ---
 
-## HICSS 51 Registration System
+## Use Case
+### HICSS 51 Registration System
 
 
 ---
 
-![Data transformation process](assets/data_to_knowledge.png)
+
 
 +++
 
