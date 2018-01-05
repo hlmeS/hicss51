@@ -9,15 +9,15 @@ University of Hawai`i at Manoa</sm>
 
 ## Overview
 
-- Motivation
-- Objectives
-- Development Stack
-- Use Case
+- Motivation |
+- Objectives |
+- Development Stack |
+- Use Case: HICSS-51 Registration System |
 
 
-+++
+---
 
-### Why?
+### Motivation
 
 - improved insights |
 - better decisions  |
@@ -26,20 +26,34 @@ University of Hawai`i at Manoa</sm>
 
 +++
 
-### What?
+### Objectives
+
+- Framework for rapid prototyping, testing, and deployment
+- Use case validation
 
 +++
 
-### What?
+### Methodology?
+
 ![Types of BI/BA](assets/BA_types.png)
 
+---
+
+### Layered Architecture
+
 +++
 
-### How ?
+### Communication Flow
 
 +++
 
-### How ?
+
+---
+
+## HICSS 51 Registration System
+
+
+---
 
 ![Data transformation process](assets/data_to_knowledge.png)
 
