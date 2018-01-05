@@ -9,6 +9,12 @@ University of Hawai`i at Manoa</sm>
 
 ## Overview
 
+- Motivation
+- Objectives
+- Development Stack
+- Use Case
+
+
 +++
 
 ### Why?
